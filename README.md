@@ -13,6 +13,10 @@ Hi! I'm Daniel, a Data Scientist with an interest in ML Engineering and Web Deve
 
 [![Mastertilla's github stats](https://github-readme-stats.vercel.app/api?username=mastertilla&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+### Wakatime Stats
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
