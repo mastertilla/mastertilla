@@ -27,11 +27,11 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           # GitHub access token with Repo scope
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ github.token }}
           # Your Wakatime API Key
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           # Show the list of OS Worked on In dev metrics
-          SHOW_OS: True
+          SHOW_OS: "True"
           # Show the list of projects worked on in dev metrics
           SHOW_PROJECTS: True
           # Show the Editors used in dev metrics
@@ -41,7 +41,7 @@ jobs:
           # Shows the number of commit graph in the dev metrics
           SHOW_COMMIT: True
           # Show the Coding language used in dev metrics
-          SHOW_LANGUAGE: False
+          SHOW_LANGUAGE: "True"
           # Show the Total Lines of code written Badge till date
           SHOW_LINES_OF_CODE: False
           # Show language or framework used across different repository
