@@ -9,9 +9,7 @@ Hi! I'm Daniel, a Data Scientist with an interest in ML Engineering and Web Deve
 - Happy to help with anything DS and Python related!;
 - Happy to chat over Twitter: [@mastertilla](https://twitter.com/mastertilla);
 
-<br />
-
-## Github Stats
+### Github Stats
 
 [![Mastertilla's github stats](https://github-readme-stats.vercel.app/api?username=mastertilla)](https://github.com/anuraghazra/github-readme-stats)
 
