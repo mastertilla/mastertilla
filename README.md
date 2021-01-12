@@ -4,6 +4,7 @@ Hi! I'm Daniel, a Data Scientist with an interest in ML Engineering and Web Deve
 
 **A bit about me:**
 
+- Experienced implementing ML models in production
 - I'm currently working on Reinforcement learning algorithms and a workout app;
 - I'm currently learning C++ and React framework;
 - Happy to help with anything DS and Python related!;
