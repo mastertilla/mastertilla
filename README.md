@@ -9,10 +9,6 @@ Hi! I'm Daniel, a Data Scientist with an interest in ML Engineering and Web Deve
 - Happy to help with anything DS and Python related!;
 - Happy to chat over Twitter: [@mastertilla](https://twitter.com/mastertilla);
 
-### Github Stats
-
-[![Mastertilla's github stats](https://github-readme-stats.vercel.app/api?username=mastertilla&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
@@ -20,12 +16,11 @@ Hi! I'm Daniel, a Data Scientist with an interest in ML Engineering and Web Deve
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastertilla&show_icons=true&hide_border=true&layout=compact&langs_count=5"/>
 </details>
 
-### Wakatime Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<br />
+<details>
+  <summary><b>☄️ Wakatime Stats</b></summary>
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</details>
 
 <a href="https://twitter.com/mastertilla">
   <img align="left" alt="Daniel Montilla | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
