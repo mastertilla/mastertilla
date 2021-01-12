@@ -1,3 +1,6 @@
+[![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)](https://github.com/guilyx/guilyx/actions)
+![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
+
 ### Hi there 👋
 
 Hi! I'm Daniel, a Data Scientist with an interest in ML Engineering and Web Development.
