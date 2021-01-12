@@ -1,4 +1,6 @@
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)](https://github.com/guilyx/guilyx/actions)
+[![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)](https://github.com/mastertilla/mastertilla/actions)
+
+![](https://visitor-badge.glitch.me/badge?page_id=mastertilla.mastertilla)
 
 ### Hi there 👋
 
