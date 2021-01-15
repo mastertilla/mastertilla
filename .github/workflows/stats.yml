@@ -29,6 +29,6 @@ jobs:
           # GitHub access token with Repo scope
           GH_TOKEN: ${{ github.token }}
           # Your Wakatime API Key
-          WAKATIME_API_KEY: ${{ secrets.GH_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
