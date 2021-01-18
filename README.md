@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi! I'm Daniel, a Data Scientist with an interest in ML Engineering and Web Development.
+Hi! I'm Daniel, a Data Scientist and ML Engineer with an interest in Web Development.
 
 **A bit about me:**
 
