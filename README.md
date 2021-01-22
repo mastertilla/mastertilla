@@ -5,8 +5,8 @@ Hi! I'm Daniel, a Data Scientist and ML Engineer with an interest in Web Develop
 **A bit about me:**
 
 - Experienced implementing ML models in production
-- I'm currently working on Reinforcement learning algorithms and a workout app;
-- I'm currently learning C++ and React framework;
+- I'm currently working on Reinforcement learning algorithms and a workout Django app;
+- I'm currently learning Golang and React framework;
 - Happy to help with anything DS and Python related!;
 - Happy to chat over Twitter: [@mastertilla](https://twitter.com/mastertilla);
 
