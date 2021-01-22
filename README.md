@@ -17,12 +17,6 @@ Hi! I'm Daniel, a Data Scientist and ML Engineer with an interest in Web Develop
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastertilla&show_icons=true&hide_border=true&layout=compact&langs_count=5&theme=radical"/>
 </details>
 
-<details>
-  <summary><b>☄️ Wakatime Stats</b></summary>
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
-</details>
-
 <a href="https://twitter.com/mastertilla">
   <img align="left" alt="Daniel Montilla | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
