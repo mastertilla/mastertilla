@@ -32,7 +32,7 @@
 <details>
   <summary><b>⚡ Github Stats</b></summary>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mastertilla&show_icons=true&locale=en&layout=compact&hide=jupyter" alt="mastertilla" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mastertilla&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="mastertilla" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mastertilla&show_icons=true&locale=en" alt="mastertilla" /></p>
 
