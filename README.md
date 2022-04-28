@@ -15,6 +15,8 @@ Hi! I'm Daniel, a Data Scientist and ML Engineer with an interest in Web Develop
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mastertilla&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastertilla&show_icons=true&hide_border=true&layout=compact&langs_count=5&theme=radical"/>
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mastertilla&theme=dark&background=000000)](https://git.io/streak-stats)
 </details>
 
 <a href="https://twitter.com/mastertilla">
@@ -24,4 +26,4 @@ Hi! I'm Daniel, a Data Scientist and ML Engineer with an interest in Web Develop
   <img align="left" alt="Daniel's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mastertilla&theme=dark&background=000000)](https://git.io/streak-stats)
+
