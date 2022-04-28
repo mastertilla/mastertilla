@@ -23,3 +23,5 @@ Hi! I'm Daniel, a Data Scientist and ML Engineer with an interest in Web Develop
 <a href="https://www.linkedin.com/in/daniel-montilla-navas/">
   <img align="left" alt="Daniel's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mastertilla&theme=dark&background=000000)](https://git.io/streak-stats)
