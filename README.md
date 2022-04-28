@@ -29,15 +29,15 @@
   </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
 
-<details>
-  <h3><b>⚡ Github Stats</b></h3>
+<h3>⚡ Github Stats</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mastertilla&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="mastertilla" /></p>
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mastertilla&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="mastertilla" /></div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mastertilla&show_icons=true&locale=en" alt="mastertilla" /></p>
+<div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mastertilla&show_icons=true&locale=en" alt="mastertilla" /></div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mastertilla&" alt="mastertilla" /></p>
-</details>
+<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mastertilla&" alt="mastertilla" /></div>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mastertilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mastertilla" height="30" width="40" /></a>
