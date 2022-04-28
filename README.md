@@ -30,7 +30,7 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
 
 <details>
-  <summary><b>⚡ Github Stats</b></summary>
+  <h3><b>⚡ Github Stats</b></h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mastertilla&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="mastertilla" /></p>
 
